@@ -1,14 +1,16 @@
 # JavaWebapplication
 
-MVC Architecture
+<b>MVC Architecture:</b>
 
-Functionality: 
+<b>Functionality:</b>
 
 CRUD & Login,Logout,Serach,Sort,Pagination,Export CSV,Field Validation,Captcha,Reset Password via Email,Session Handling
 
-Technology:JAVA:1.7,Tomcat:8.0,MySQL:1.5,JSP,Servlet
+<b>Technology:</b>
 
-Jars:
+JAVA:1.7,Tomcat:8.0,MySQL:1.5,JSP,Servlet
+
+<b>Jars:</b>
 
 1. mail.jar
 
@@ -20,7 +22,7 @@ Jars:
 
 5. mysql-connector-java.jar
 
-For Login:
+<b>For Login:</b>
 
 Access URL: http://localhost:8080/crud/
 
