@@ -28,8 +28,6 @@ JAVA:1.7,Tomcat:8.0,MySQL:1.5,JSP,Servlet
 
 8. jstl-impl.jar
 
-9. mail.jar
-
 <b>For Login:</b>
 
 Access URL: http://localhost:8080/crud/
