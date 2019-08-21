@@ -22,11 +22,9 @@ JAVA:1.7,Tomcat:8.0,MySQL:1.5,JSP,Servlet
 
 5. mysql-connector-java.jar
 
-6. java-json.jar
+6. jstl-api.jar
 
-7. jstl-api.jar
-
-8. jstl-impl.jar
+7. jstl-impl.jar
 
 <b>For Login:</b>
 
